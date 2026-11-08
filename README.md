@@ -1,4 +1,3 @@
-# Quality-Control-System
 
 # Coating Process Monitoring and Customer-Specific Quality Control System
 
