@@ -1,13 +1,14 @@
 
-# Coating Process Monitoring and Customer-Specific Quality Control System
+# Coating Process Monitoring and Quality Control System
 
 ## Project Overview
 
-This project focuses on monitoring coating and baking operations while maintaining customer-specific quality requirements.
+This project focuses on monitoring coating and baking operations and maintaining product quality throughout the production process.
 
-The system tracks process cycles for each production batch, validates whether the required process sequence is followed and checks final inspection measurements against customer specifications.
+The system tracks coating and baking cycles for each production batch, validates the required process sequence and checks final coating thickness against specified quality limits.
 
-It provides batch-wise process information, quality status and deviation alerts to support production monitoring and product quality.
+It provides batch-wise process information, quality status, deviation alerts and stored production records to support process monitoring and traceability.
+
 
 ## Project Motivation
 
